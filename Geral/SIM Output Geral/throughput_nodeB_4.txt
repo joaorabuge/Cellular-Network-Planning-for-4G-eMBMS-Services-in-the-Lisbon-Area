@@ -1,0 +1,21 @@
+5.0 NaN 
+10.0 NaN 
+15.0 NaN 
+20.0 NaN 
+25.0 NaN 
+30.0 NaN 
+35.0 NaN 
+40.0 NaN 
+45.0 NaN 
+50.0 NaN 
+55.00000000000001 NaN 
+60.0 NaN 
+65.0 NaN 
+70.0 NaN 
+75.0 NaN 
+80.0 NaN 
+85.0 NaN 
+90.0 NaN 
+95.0 NaN 
+100.0 NaN 
+
